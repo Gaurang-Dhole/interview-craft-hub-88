@@ -74,7 +74,7 @@ export default {
       },
       backgroundImage: {
         'gradient-primary': 'linear-gradient(135deg, hsl(var(--gradient-start)), hsl(var(--gradient-end)))',
-        'gradient-radial': 'radial-gradient(circle at top right, hsl(var(--gradient-start)), hsl(var(--gradient-end)))',
+        'gradient-radial': 'radial-gradient(ellipse at top, hsl(0 0% 96%), hsl(0 0% 98%))',
       },
       borderRadius: {
         lg: "var(--radius)",
